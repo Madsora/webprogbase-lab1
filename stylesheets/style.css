@@ -24,7 +24,9 @@ background-size: cover;
   text-align:right;
   font-size: 25px;
   float: right;
+  position: absolute;
+  top: 100px;
   width: 30%;
-  color: blue;
+  color: black;
   font-family: georgia;
 }
