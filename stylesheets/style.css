@@ -25,6 +25,7 @@ background-size: cover;
   text-align: right;
   font-size: 25px;
   float: right;
-  color: blue;
+  width: 40px;
+  color: black;
   font-family: georgia;
 }
