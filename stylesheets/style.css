@@ -6,9 +6,9 @@ background-size: cover;
 .menu{
   
 }
-h1{
+.description h1{
   font-style: oblique;
-  padding-left: 500px;
+  float: center;
   font-size: 80px;
   font-weight: bold;
 }
@@ -16,6 +16,6 @@ h1{
   text-align: right;
   font-size: 25px;
   float: right;
-  color: white;
+  color: blue;
   font-family: georgia;
 }
