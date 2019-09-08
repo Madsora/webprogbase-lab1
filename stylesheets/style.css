@@ -29,6 +29,7 @@ background-size: cover;
   font-weight: bold;
 }
 .header img{
+  border-radius: 80px;
   margin-left: 10px;
   position: absolute;
   left: 100px;
