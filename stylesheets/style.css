@@ -22,11 +22,11 @@ background-size: cover;
 }
 .description{
   text-align:right;
-  font-size: 25px;
+  font-size: 30px;
   position: absolute;
-  top: 130px;
-  right: 10px;
-  width: 35%;
+  top: 160px;
+  right: 20px;
+  width: 40%;
   color: black;
   font-family: georgia;
 }
