@@ -3,11 +3,13 @@ background: url(https://www.nuttaputch.com/wp-content/uploads/2014/10/bigstock-O
 background-size: cover;
 }
 .user{
+  position: absolute;
+  top: 160px;
   width: 900px;
   height: 250px;
   margin: auto; 
-  border-color: saddlebrown;
-  border-style: double;
+  border-color: darkred;
+  border-style: groove;
   caption-side: bottom;
 }
 .menu{
