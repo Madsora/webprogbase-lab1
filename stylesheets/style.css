@@ -11,7 +11,6 @@ background-size: cover;
   border-color: darkred;
   border-style: groove;
   caption-side: bottom;
-  border: 2px solid green;
 }
 .menu{
   position: absolute;
