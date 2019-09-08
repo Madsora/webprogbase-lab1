@@ -13,6 +13,7 @@ background-size: cover;
   font-style: oblique;
   font-size: 80px;
   font-weight: bold;
+  width: 70px;
 }
 .header img{
   margin-left: 10px;
@@ -24,6 +25,6 @@ background-size: cover;
   text-align: right;
   font-size: 25px;
   float: right;
-  color: white;
+  color: blue;
   font-family: georgia;
 }
