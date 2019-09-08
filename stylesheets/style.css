@@ -13,6 +13,8 @@ h1{
   font-weight: bold;
 }
 .description{
-  padding-left: 500px;
-   width: 40%;
+  padding-right: 10px;
+  font-size: 40px;
+  color: white;
+  font-family: georgia;
 }
