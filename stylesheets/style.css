@@ -1,3 +1,4 @@
 body{
-background: url(https://s3.envato.com/files/230574712/571A7596.jpg) fixed no-repeat auto
+background: url(https://s3.envato.com/files/230574712/571A7596.jpg) fixed no-repeat;
+background-size: cover;
 }
