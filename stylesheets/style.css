@@ -13,7 +13,7 @@ background-size: cover;
   color: black;
 }
 .menu a.selected{
-  color: grey;
+  color: white;
   text-decoration: blink;
 }
 .header{
@@ -33,7 +33,7 @@ background-size: cover;
   margin-left: 10px;
   position: absolute;
   left: 220px;
-  top: 20px;
+  top: 30px;
 }
 .description{
   text-align:right;
