@@ -5,9 +5,9 @@ background-size: cover;
 .user{
   position: absolute;
   top: 170px;
-  left: 500px;
-  width: 900px;
-  height: 250px;
+  left: 600px;
+  width: 1000px;
+  height: 200px;
   border-color: darkred;
   border-style: groove;
   caption-side: bottom;
