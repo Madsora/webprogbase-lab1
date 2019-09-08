@@ -3,7 +3,10 @@ background: url(https://www.nuttaputch.com/wp-content/uploads/2014/10/bigstock-O
 background-size: cover;
 }
 .menu{
-  
+  font-size: 30px;
+  position: absolute;
+  top: 160px;
+  left: 70px;
 }
 .header{
   display: inline-block;
