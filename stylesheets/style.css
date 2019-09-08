@@ -12,3 +12,7 @@ h1{
   font-size: 80px;
   font-weight: bold;
 }
+.description{
+  padding-right: 0px;
+   width: 40%;
+}
