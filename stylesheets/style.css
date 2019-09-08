@@ -5,6 +5,9 @@ background-size: cover;
 .user{
   width: 700px;
   height: 200px;
+  margin: auto; 
+  color: peru;
+  caption-side: bottom;
 }
 .menu{
   position: absolute;
