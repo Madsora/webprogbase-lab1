@@ -21,6 +21,11 @@ background-size: cover;
   border-width: 5px;
   border-color: darkred;
 }
+.user caption{
+  color: bisque;
+  font-size:40px;
+  font-family: georgia;
+}
 .menu{
   position: absolute;
   top: 160px;
