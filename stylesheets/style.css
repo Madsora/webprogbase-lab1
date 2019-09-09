@@ -4,7 +4,7 @@ background-size: cover;
 }
 .user{
   position: absolute;
-  top: 170px;
+  top: 110px;
   left: 600px;
   width: 1000px;
   height: 200px;
@@ -23,7 +23,7 @@ background-size: cover;
 }
 .user caption{
   color: black;
-  font-size:70px;
+  font-size:60px;
   font-family: georgia;
 }
 .menu{
