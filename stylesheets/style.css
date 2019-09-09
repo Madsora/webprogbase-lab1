@@ -8,6 +8,7 @@ background-size: cover;
   left: 600px;
   width: 1000px;
   height: 200px;
+  border-collapse: collapse;
   border-color: darkred;
   border-style: groove;
   caption-side: bottom;
