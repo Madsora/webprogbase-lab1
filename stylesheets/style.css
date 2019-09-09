@@ -11,7 +11,7 @@ background-size: cover;
   border-collapse: collapse;
   border-color: darkred;
   border-style: groove;
-  caption-side: left;
+  caption-side: top;
 }
 .user tr{
   border-width: 5px;
