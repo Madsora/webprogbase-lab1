@@ -1,8 +1,11 @@
 body{
 background: url(https://www.nuttaputch.com/wp-content/uploads/2014/10/bigstock-Old-books-on-a-wooden-shelf-N-46537213-759x500.jpg) fixed no-repeat;
 background-size: cover;
+width: 1200px;
+margin-left: auto;
+margin-right: auto;
 }
-.user{
+table {
   position: absolute;
   top: 102px;
   left: 600px;
@@ -13,18 +16,39 @@ background-size: cover;
   border-style: groove;
   caption-side: top;
 }
-.user tr{
+ tr{
   border-width: 5px;
   border-color: darkred;
 }
-.user th{
+ th{
   border-width: 5px;
   border-color: darkred;
 }
-.user caption{
+.tasks th a{
+  font-size: 30px;
+  font-family: georgia;
+  color: black;
+ }
+ caption{
   color: black;
   font-size:60px;
   font-family: georgia;
+}
+.menu1
+{
+  position: absolute;
+  top: 5px;
+  left: 10px;
+}
+.menu1 a
+{
+  font-size: 30px;
+  font-family: georgia;
+  color: black;
+}
+.menu1 a.selected{
+  color: white;
+  text-decoration: blink;
 }
 .menu{
   position: absolute;
@@ -67,5 +91,76 @@ background-size: cover;
   right: 20px;
   width: 50%;
   color: black;
+  font-family: georgia;
+}
+.info
+{
+  text-align: right;
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
+.info h1
+{
+  color: black;
+  font-size:60px;
+  font-family: georgia;
+  margin-bottom: 10px;
+}
+.info p
+{
+  margin: 5px;
+  font-size: 30px;
+  color: black;
+  font-family: georgia;
+}
+.info p.q
+{
+  margin-top: 20px;
+}
+.ava1
+{
+  position: absolute;
+  top: 180px;
+  left: 450px;
+}
+.ava2
+{
+  position: absolute;
+  top: 180px;
+  left: 450px;
+}
+.full
+{
+  font-size:40px;
+  font-family: georgia;
+  position: absolute;
+  top: 140px;
+  left: 650px;
+}
+.log
+{
+  margin-top: 20px;
+  font-size: 25px;
+  font-family: georgia;
+  position: absolute;
+  top: 200px;
+  left: 650px;
+}
+.bio
+{
+  margin-top: 20px;
+  font-size: 25px;
+  font-family: georgia;
+  position: absolute;
+  top: 330px;
+  left: 450px;
+}
+.author
+{
+  position: absolute;
+  top: 160px;
+  left: 90px;
+  font-size: 25px;
   font-family: georgia;
 }
